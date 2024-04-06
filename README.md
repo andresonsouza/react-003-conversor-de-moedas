@@ -9,6 +9,12 @@ Projeto de estudo desenvolvido no curso [20+ Projetos em React JS aprenda Redux,
 ## Dependências extras:
 Para facilitar a conexão com api externa, e também fazer chamadas assíncronas, foi utilizado o pacote do [axios](https://www.npmjs.com/package/axios).
 
+## ExchangeRate-API
+
+Para carregar a lista de moedas foi usada a [ExchangeRate-API](https://app.exchangerate-api.com).
+É necessário fazer um cadastro no site e pegar a URL com Token gerado para fazer as requisições.
+Há um limite de 1500 requisiçõs no modo free.
+
 ## Baixar as dependencias
 
 - Com o node instalado execute o seguinte comando:
