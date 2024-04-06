@@ -1,8 +1,25 @@
-# React + Vite
+# Projeto 003 - Conversor de Moedas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto de estudo desenvolvido no curso [20+ Projetos em React JS aprenda Redux, Bootstrap, APIs](https://www.udemy.com/share/109Ohk3@5QwjZu-ULUXpYc0iK6cqT_ayXruFz4eUoDF0DR83UmSjnZnVMPbTKYGZqYovrSSx/) da [Udemy](https://www.udemy.com/).
 
-Currently, two official plugins are available:
+## Layout do projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![](./src/assets/conversor_de_moedas.png)
+
+## Dependências extras:
+Para facilitar a conexão com api externa, e também fazer chamadas assíncronas, foi utilizado o pacote do [axios](https://www.npmjs.com/package/axios).
+
+## Baixar as dependencias
+
+- Com o node instalado execute o seguinte comando:
+
+```bash
+  npm install
+```
+
+## Executar a aplicação
+
+- Agora subindo a aplicação:
+```bash
+  npm run dev
+ ```
