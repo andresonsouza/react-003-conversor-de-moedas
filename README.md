@@ -7,7 +7,7 @@ Projeto de estudo desenvolvido no curso [20+ Projetos em React JS aprenda Redux,
 ![](./src/assets/conversor_de_moedas.png)
 
 ## Dependências extras:
-Para facilitar a conexão com api externa, e também fazer chamadas assíncronas, foi utilizado o pacote do [axios](https://www.npmjs.com/package/axios).
+Para facilitar a conexão com api externa, e também fazer chamadas assíncronas, foi utilizado o pacote do [axios](https://axios-http.com/docs/intro).
 
 ## ExchangeRate-API
 
